@@ -1,0 +1,11 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('https://previews.123rf.com/images/nexusplexus/nexusplexus1812/nexusplexus181201166/113368807-fantasy-image-with-space-planets-and-sea-waters.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
